@@ -1,0 +1,5 @@
+* a toolbox for history inspection
+
+Quickly browse the history of files in any git repo:
+1-Go to a file in GitHub (or GitLab, or Bitbucket)
+2-Replace github.com with github.githistory.xyz
