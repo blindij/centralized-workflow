@@ -1,1 +1,2 @@
-learn how to clone, create branch and commit to repository in Github
+learn how to clone, create branch and commit to repository in Github.
+https://coderefinery.github.io/git-collaborative/centralized/
